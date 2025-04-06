@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **js kaboom, python and other projects**
+- 🌱 I’m currently learning **js kaboom, python and other project s**
 
 - 📫 How to reach me **aaryanboy12@gmail.com**
 

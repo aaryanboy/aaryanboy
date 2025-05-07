@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **nextjs React ** for a website project
 
 - 📫 How to reach me **aaryanboy12@gmail.com**
+- connect in instagram..... imm more active there
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

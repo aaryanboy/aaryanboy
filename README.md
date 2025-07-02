@@ -11,7 +11,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-boy-216a0a341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-boy-216a0a341/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/aaryan_boy12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aaryan_boy12/" height="30" width="40" /></a>
 </p>
+
+
+
  <p>** vibe coder **</p>
+
+ <hr>
 <h3 align="left">Languages and Tools:</h3>
 
 

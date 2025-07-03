@@ -48,7 +48,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanboy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aaryanboy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  ![kyubey](https://github.com/Rijan-Budds/Rijan-Budds/assets/97865921/2b43d563-7c1a-4643-9c6b-474aa084f7c7)
+  ![kyubey](https://github.com/aaryanboy/aaryanboy/assets/97865921/2b43d563-7c1a-4643-9c6b-474aa084f7c7)
 </div>
 
 

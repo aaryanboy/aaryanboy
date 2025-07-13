@@ -1,3 +1,8 @@
+!aaryanboy(https://komarev.com/ghpvc/?username=aaryanboy&color=blue&style=flat)
+
+<!-- Replace 'your-username' with your actual GitHub username -->
+
+
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate frontend developer from Nepal  </h3>
 

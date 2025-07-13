@@ -1,5 +1,7 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aaryanboy.aaryanboy)
+<div align="right"
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aaryanboy.aaryanboy)
+</div>
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate frontend developer from Nepal  </h3>

@@ -1,4 +1,7 @@
-!aaryanboy(https://komarev.com/ghpvc/?username=aaryanboy&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?aaryanboy=your-username&color=blue&style=flat)
+
+<!-- Replace 'your-username' with your actual GitHub username -->
+
 
 <!-- Replace 'your-username' with your actual GitHub username -->
 

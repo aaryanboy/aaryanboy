@@ -1,9 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?aaryanboy=your-username&color=blue&style=flat)
-
-<!-- Replace 'your-username' with your actual GitHub username -->
-
-
-<!-- Replace 'your-username' with your actual GitHub username -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aaryanboy.aaryanboy)
 
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
